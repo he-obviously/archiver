@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/huffman_1.dir/main.cpp.o CMakeFiles/huffman_1.dir/compress.cpp.o CMakeFiles/huffman_1.dir/read.cpp.o CMakeFiles/huffman_1.dir/prefix_tree.cpp.o CMakeFiles/huffman_1.dir/bin_write.cpp.o CMakeFiles/huffman_1.dir/decompress.cpp.o CMakeFiles/huffman_1.dir/bin_read.cpp.o  -o huffman_1 

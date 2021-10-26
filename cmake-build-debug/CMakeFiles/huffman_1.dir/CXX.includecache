@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/15929/CLionProjects/huffman-1/bin_read.cpp
+fstream
+-
+vector
+-
+string
+-
+iostream
+-
+constants.h
+/mnt/c/Users/15929/CLionProjects/huffman-1/constants.h
+algorithm
+-
+bin_read.h
+/mnt/c/Users/15929/CLionProjects/huffman-1/bin_read.h
+bin_write.h
+/mnt/c/Users/15929/CLionProjects/huffman-1/bin_write.h
+
+/mnt/c/Users/15929/CLionProjects/huffman-1/bin_read.h
+
+/mnt/c/Users/15929/CLionProjects/huffman-1/bin_write.h
+vector
+-
+
+/mnt/c/Users/15929/CLionProjects/huffman-1/constants.h
+cstddef
+-
+cstdint
+-
+
